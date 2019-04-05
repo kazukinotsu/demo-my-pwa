@@ -3,7 +3,7 @@
   "short_name": "PokeGo",  
   "icons": [    
     {  
-      "src": "/demo-my-pwa/icon_192x192.png",  
+      "src": "Picture.png",  
       "sizes": "192x192"
     }
   ],
